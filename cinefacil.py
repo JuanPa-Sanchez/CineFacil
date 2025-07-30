@@ -6,7 +6,7 @@ while True:
     total=boletos*30
     print("Resumen")
     print(f"Nombre: {nombre}\nPelicula: {pelicula}\nTotal a pagar: {total}")
-    reservaciones["reserva"]={
+    reservaciones["Reserva"]={
         "Nombre": nombre,
         "Pelicula": pelicula,
         "Total": total
